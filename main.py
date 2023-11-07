@@ -1,6 +1,6 @@
 def main():
 
-    original_str = 'Python Programming'
+    org_str = 'Python Programming'
     ##################################################
     # Comlete your code here
     ##################################################
