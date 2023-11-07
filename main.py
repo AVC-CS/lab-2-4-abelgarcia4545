@@ -13,7 +13,7 @@ def main():
 
     #########################################
     # Do not delete the return statement
-    return sub1, sub2, merged_str
+    return sub1, sub2, merge_str
 
 
 if __name__ == '__main__':
